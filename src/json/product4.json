@@ -1,0 +1,9 @@
+{
+  "id": 4,
+  "name": "Varsity Jacket",
+  "price": 50.00,
+  "description": "A trendy varsity jacket for casual wear.",
+  "image": "https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg",
+  "category": "Coats",
+  "stock": "Available"
+}

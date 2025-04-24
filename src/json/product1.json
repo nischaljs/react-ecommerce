@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "name": "Classic Striped Shirt",
+  "price": 40.00,
+  "description": "A timeless striped shirt for all occasions.",
+  "image": "https://images.pexels.com/photos/31674464/pexels-photo-31674464/free-photo-of-contemplative-woman-in-striped-shirt-with-bracelets.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "category": "T-Shirt",
+  "stock": "Available"
+}

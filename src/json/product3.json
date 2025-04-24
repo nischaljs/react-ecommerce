@@ -1,0 +1,9 @@
+{
+  "id": 3,
+  "name": "4 Button Blazer",
+  "price": 80.00,
+  "description": "A stylish blazer with four buttons for formal events.",
+  "image": "https://images.pexels.com/photos/6626903/pexels-photo-6626903.jpeg",
+  "category": "Coats",
+  "stock": "Available"
+}

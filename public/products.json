@@ -1,0 +1,213 @@
+{
+  "featuredProducts": [
+    {
+      "id": 1,
+      "name": "Classic Striped Shirt",
+      "price": 40.00,
+      "category": "T-Shirt",
+      "image": "https://images.pexels.com/photos/31674464/pexels-photo-31674464/free-photo-of-contemplative-woman-in-striped-shirt-with-bracelets.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "stock": "Available"
+    },
+    {
+      "id": 2,
+      "name": "Elegance White Dress",
+      "price": 40.00,
+      "category": "Dress",
+      "image": "https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg",
+      "stock": "Available"
+    },
+    {
+      "id": 3,
+      "name": "4 Button Blazer",
+      "price": 40.00,
+      "category": "Coats",
+      "image": "https://images.pexels.com/photos/6626903/pexels-photo-6626903.jpeg",
+      "stock": "Available"
+    },
+    {
+      "id": 4,
+      "name": "Varsity Jacket",
+      "price": 40.00,
+      "category": "Coats",
+      "image": "https://images.pexels.com/photos/6311392/pexels-photo-6311392.jpeg",
+      "stock": "Available"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Personal Care",
+      "icon": "personalcare"
+    },
+    {
+      "id": 2,
+      "name": "Accessories",
+      "icon": "accessories"
+    },
+    {
+      "id": 3,
+      "name": "Coats",
+      "icon": "coats"
+    },
+    {
+      "id": 4,
+      "name": "Sweat Pants",
+      "icon": "sweatpants"
+    },
+    {
+      "id": 5,
+      "name": "Parfume",
+      "icon": "parfume"
+    },
+    {
+      "id": 6,
+      "name": "T-Shirt",
+      "icon": "tshirt"
+    },
+    {
+      "id": 7,
+      "name": "Sneakers",
+      "icon": "sneakers"
+    },
+    {
+      "id": 8,
+      "name": "Bags",
+      "icon": "bags"
+    }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "title": "Discover our accessories collection",
+      "subtitle": "Timeless elegance",
+      "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": 2,
+      "title": "Explore our shoes collection",
+      "subtitle": "Find your perfect pair",
+      "image": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg",
+      "buttonText": "Shop Now"
+    }
+  ],
+  "featuredDeals": [
+    {
+      "id": 1,
+      "title": "Indulge in exclusive deals",
+      "subtitle": "Shop now and enjoy our latest fashion finds.",
+      "image": "https://images.pexels.com/photos/6567607/pexels-photo-6567607.jpeg",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": 2,
+      "title": "Welcome offer just for you",
+      "subtitle": "Enjoy a special discount on your first purchase.",
+      "image": "https://images.pexels.com/photos/6707628/pexels-photo-6707628.jpeg",
+      "buttonText": "Get discount"
+    }
+  ],
+  "brands": [
+    { "id": 2, "name": "Nike", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Logo_NIKE.svg/1200px-Logo_NIKE.svg.png" },
+    { "id": 3, "name": "New Balance", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/New_Balance_logo.svg/1200px-New_Balance_logo.svg.png" },
+    { "id": 5, "name": "Uniqlo", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UNIQLO_logo.svg/1200px-UNIQLO_logo.svg.png" },
+    { "id": 6, "name": "Zara", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zara_Logo.svg/1200px-Zara_Logo.svg.png" },
+    { "id": 7, "name": "Adidas", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/1200px-Adidas_Logo.svg.png" },
+    { "id": 9, "name": "H&M", "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/H%26M-Logo.svg/1200px-H%26M-Logo.svg.png" }
+  ],
+  "blog": [
+    {
+      "id": 1,
+      "title": "Trendy athletic outfits for active lifestyles",
+      "category": "Outfit",
+      "image": "https://images.pexels.com/photos/6550873/pexels-photo-6550873.jpeg"
+    },
+    {
+      "id": 2,
+      "title": "Modern fashion for the contemporary woman",
+      "category": "Outfit",
+      "image": "https://images.pexels.com/photos/6567739/pexels-photo-6567739.jpeg"
+    },{
+      "id": 3,
+      "title": "Stylish and comfortable shoes for every occasion",
+      "category": "Shoes",
+      "image": "https://images.pexels.com/photos/6567738/pexels-photo-6567738.jpeg"
+    }
+  ],
+  "hero": [
+    {
+      "id": 1,
+      "title": "Simple is More",
+      "subtitle": "DESIGNED TO STAND OUT",
+      "tagline": "LIMITED-EDITIONS STYLES",
+      "image": "https://images.pexels.com/photos/833052/pexels-photo-833052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "buttonText": "Shop Now"
+    },
+    {
+      "id": 2,
+      "title": "Elegance Defined",
+      "subtitle": "PREMIUM QUALITY MATERIALS",
+      "tagline": "EXCLUSIVE COLLECTION",
+      "image": "https://images.pexels.com/photos/949670/pexels-photo-949670.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "buttonText": "Explore Collection"
+    },
+    {
+      "id": 3,
+      "title": "Bold & Beautiful",
+      "subtitle": "STATEMENT PIECES FOR THE CONFIDENT",
+      "tagline": "SEASONAL FAVORITES",
+      "image": "https://images.pexels.com/photos/445109/pexels-photo-445109.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "buttonText": "View Selection"
+    }
+  ],
+  "languages": [
+    {
+      "id": 1,
+      "language": "English",
+      "code": "en",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/1200px-Flag_of_the_United_Kingdom.svg.png"
+    },
+    {
+      "id": 2,
+      "language": "French",
+      "code": "fr",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/1200px-Flag_of_France.svg.png"
+    },
+    {
+      "id": 3,
+      "language": "Spanish",
+      "code": "es",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png"
+    },
+    {
+      "id": 4,
+      "language": "German",
+      "code": "de",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/1200px-Flag_of_Germany.svg.png"
+    },
+    {
+      "id": 5,
+      "language": "Italian",
+      "code": "it",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png"
+    },
+    {
+      "id": 6,
+      "language": "Japanese",
+      "code": "ja",
+      "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/1200px-Flag_of_Japan.svg.png"
+    },
+    {
+      "id": 7,
+      "language": "Chinese",
+      "code": "zh",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/1200px-Flag_of_the_People%27s_Republic_of_China.svg.png"
+    },
+    {
+      "id": 8,
+      "language": "Arabic",
+      "code": "ar",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/1200px-Flag_of_Egypt.svg.png"
+    }
+  ]
+}

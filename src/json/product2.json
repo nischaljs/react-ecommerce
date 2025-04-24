@@ -1,0 +1,9 @@
+{
+  "id": 2,
+  "name": "Elegance White Dress",
+  "price": 60.00,
+  "description": "A beautiful white dress for elegant occasions.",
+  "image": "https://images.pexels.com/photos/7176305/pexels-photo-7176305.jpeg",
+  "category": "Dress",
+  "stock": "Available"
+}
