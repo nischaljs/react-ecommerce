@@ -14,8 +14,7 @@ const CartPage = () => {
       navigate('/login');
       return;
     }
-    // Handle checkout process for logged in users
-    console.log('Proceeding to checkout...');
+    navigate('/checkout');
   };
 
   if (cartItems.length === 0) {
